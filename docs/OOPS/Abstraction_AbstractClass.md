@@ -1,4 +1,4 @@
-# Abstraction — Abstract Classes (Day 1)
+# Abstraction — Abstract Classes
 
 ## 1. What is Abstraction (Simple Version)
 

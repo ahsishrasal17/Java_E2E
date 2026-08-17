@@ -1,4 +1,4 @@
-# Abstraction — Interfaces (Day 1)
+# Abstraction — Interfaces
 
 ## 1. What is Interface-Based Abstraction (Simple Version)
 
