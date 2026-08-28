@@ -1,4 +1,4 @@
-package org.ashish.learning.Collection.Map;
+package org.ashish.learning.Collection.Map.HashMap;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package org.ashish.learning.Collection.Map;
+package org.ashish.learning.Collection.Map.HashMap;
 
 public class HashMapDetails {
     public static void main(String[] args) {
